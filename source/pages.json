@@ -1,0 +1,634 @@
+{
+  "start": {
+    "body": "<p>One day in Hyrule, a strange force drew Link into Hyrule Castle, where he found the Triforce resting, glittering brilliantly as it awaited him.</p> <p>\"Link...Link...accept the quest of the Triforce!\"</p> ",
+    "actions": [{
+      "text": "Turn to page 20",
+      "id": "20"
+    }]
+  },
+  "1": {
+    "body": "Town of Brecconary: Buy a weapon and armor before setting out.",
+    "actions": [{
+      "text": "Head West",
+      "id": "5"
+    }]
+  },
+  "2": {
+    "body": "You are lost in a mountain cave. Suddenly a Drakee appears. What do you do?",
+    "actions": [{
+      "text": "Fight",
+      "id": "9"
+    }, {
+      "text": "Run",
+      "id": "10"
+    }]
+  },
+  "3": {
+    "body": "Before you lies a great lake. As you draw near a Ghost appears.",
+    "actions": [{
+      "text": "Continue",
+      "id": "11"
+    }]
+  },
+  "4": {
+    "body": "Looking north you see rugged, impassable mountains. Which way do you go?",
+    "actions": [{
+      "text": "Right",
+      "id": "12"
+    }, {
+      "text": "Left",
+      "id": "13"
+    }, {
+      "text": "Back",
+      "id": "7"
+    }]
+  },
+  "5": {
+    "body": "Proceeding to the West, a Red Slime appears. Do you ...?",
+    "actions": [{
+      "text": "Fight",
+      "id": "8"
+    }, {
+      "text": "Run",
+      "id": "14"
+    }]
+  },
+  "6": {
+    "body": "You have come to the town of Brecconary. Pay 6 Gold and recover your strength at the Inn before moving on.",
+    "actions": [{
+      "text": "Continue",
+      "id": "16"
+    }]
+  },
+  "7": {
+    "body": "Before you waits a Slime, but it hasn't seen you. What action do you take?",
+    "actions": [{
+      "text": "Fight",
+      "id": "9"
+    }, {
+      "text": "Run",
+      "id": "10"
+    }]
+  },
+  "8": {
+    "body": "After a strong attack you defeat the Slime and receive 2 Experience Points and 1 Gold. You set out, this time toward the ...",
+    "actions": [{
+      "text": "East",
+      "id": "6"
+    }, {
+      "text": "South",
+      "id": "15"
+    }, {
+      "text": "West",
+      "id": "3"
+    }, {
+      "text": "North",
+      "id": "16"
+    }]
+  },
+  "9": {
+    "body": "Attacking with your bare hands wasn't such a good idea. You inflicted 1 damage point while you received 5 damage points from the monster. Now what?",
+    "actions": [{
+      "text": "Fight",
+      "id": "18"
+    }, {
+      "text": "Run",
+      "id": "10"
+    }]
+  },
+  "10": {
+    "body": "You've escaped!",
+    "actions": [{
+      "text": "Return to Brecconary",
+      "id": "1"
+    }, {
+      "text": "Move straight ahead",
+      "id": "13"
+    }]
+  },
+  "11": {
+    "body": "You are attacked before you even see the monster.",
+    "actions": [{
+      "text": "Fight",
+      "id": "8"
+    }, {
+      "text": "Run",
+      "id": "16"
+    }]
+  },
+  "12": {
+    "body": "Heading to the right you enter the forest where a Drakee appears, looking rather mean.",
+    "actions": [{
+      "text": "Fight",
+      "id": "9"
+    }, {
+      "text": "Run",
+      "id": "10"
+    }]
+  },
+  "13": {
+    "body": "Going left brings you to a field. Which direction do you go now?",
+    "actions": [{
+      "text": "West",
+      "id": "3"
+    }, {
+      "text": "South",
+      "id": "1"
+    }, {
+      "text": "North",
+      "id": "2"
+    }]
+  },
+  "14": {
+    "body": "Luckily you've escaped, but you can't earn Experience Points or Gold by running away.",
+    "actions": [{
+      "text": "Return to start",
+      "id": "start"
+    }]
+  },
+  "15": {
+    "body": "A Magician attacks using the Hurt spell. You respond by ...?",
+    "actions": [{
+      "text": "Fighting",
+      "id": "20"
+    }, {
+      "text": "Running",
+      "id": "16"
+    }, {
+      "text": "Using a Spell",
+      "id": "43"
+    }]
+  },
+  "16": {
+    "body": "Seeing a cave to the North, you proceed to the ...?",
+    "actions": [{
+      "text": "East",
+      "id": "21"
+    }, {
+      "text": "West",
+      "id": "22"
+    }, {
+      "text": "North",
+      "id": "23"
+    }]
+  },
+  "17": {
+    "body": "You've attacked an enemy before it was prepared and won a great victory, gaining 8 Experience and 10 Gold. You go up 1 Level and learn the spells of Heal and Hurt. Your HP is at 30 and your MP is at 16. Where do you go next?",
+    "actions": [{
+      "text": "East",
+      "id": "44"
+    }, {
+      "text": "North",
+      "id": "45"
+    }, {
+      "text": "South",
+      "id": "46"
+    }]
+  },
+  "18": {
+    "body": "Your attack inflicted 1 point of damage on the enemy while you received 5 points of damage. Your HP is at 2.",
+    "actions": [{
+      "text": "Fight",
+      "id": "19"
+    }, {
+      "text": "Run",
+      "id": "1"
+    }, {
+      "text": "Spell",
+      "id": "43"
+    }]
+  },
+  "19": {
+    "body": "Good punch. You knocked down the enemy and gained 2 Experience Points and 1 Gold. Now let's go back to town.",
+    "actions": [{
+      "text": "Continue",
+      "id": "1"
+    }]
+  },
+  "20": {
+    "body": "A great blow! The enemy is defeated. It's time to go back to the town.",
+    "actions": [{
+      "text": "Continue",
+      "id": "6"
+    }]
+  },
+  "21": {
+    "body": "Crossing the bridge, you see a Magician.",
+    "actions": [{
+      "text": "Fight",
+      "id": "24"
+    }, {
+      "text": "Run",
+      "id": "25"
+    }, {
+      "text": "Spell",
+      "id": "43"
+    }]
+  },
+  "22": {
+    "body": "A bridge lies to the South and some hills to the North. Where do you go?",
+    "actions": [{
+      "text": "North",
+      "id": "26"
+    }, {
+      "text": "South",
+      "id": "21"
+    }]
+  },
+  "23": {
+    "body": "You are inside Erdrick's Cave. With the torch lit, you discover a treasure chest. Inside is a tablet that tells of ancient deeds. It also tells you that you must find 3 special items to succeed in your quest. Where do you go from here?",
+    "actions": [{
+      "text": "North",
+      "id": "27"
+    }, {
+      "text": "West",
+      "id": "26"
+    }, {
+      "text": "East",
+      "id": "21"
+    }]
+  },
+  "24": {
+    "body": "The attack on the Magician leaves you with 10 points of damage from the Hurt spell and the Magician with only 3 points of damage.",
+    "actions": [{
+      "text": "Continue",
+      "id": "60"
+    }]
+  },
+  "25": {
+    "body": "You received 3 points of damage during the attack, but managed to run away. For protection you must use one of the items in the list.",
+    "actions": [{
+      "text": "Torch",
+      "id": "29"
+    }, {
+      "text": "Fairy Water",
+      "id": "30"
+    }, {
+      "text": "Herb",
+      "id": "31"
+    }, {
+      "text": "Dragon's Scale",
+      "id": "32"
+    }, {
+      "text": "Wings",
+      "id": "33"
+    }]
+  },
+  "26": {
+    "body": "In the hills a Drakee attacks!",
+    "actions": [{
+      "text": "Fight",
+      "id": "35"
+    }, {
+      "text": "Run",
+      "id": "36"
+    }, {
+      "text": "Spell",
+      "id": "43"
+    }]
+  },
+  "27": {
+    "body": "Going North you reach the ocean. Where do you go next?",
+    "actions": [{
+      "text": "East",
+      "id": "37"
+    }, {
+      "text": "West",
+      "id": "28"
+    }]
+  },
+  "28": {
+    "body": "You spot a town ahead in the distance.",
+    "actions": [{
+      "text": "Continue",
+      "id": "38"
+    }]
+  },
+  "29": {
+    "body": "Nothing happened after lighting the torch.",
+    "actions": [{
+      "text": "Continue",
+      "id": "34"
+    }]
+  },
+  "30": {
+    "body": "Sprinkling the Fairy Water all over you will keep the monsters away.",
+    "actions": [{
+      "text": "Continue",
+      "id": "6"
+    }]
+  },
+  "31": {
+    "body": "Herb heels your wounds and you recover your strength.",
+    "actions": [{
+      "text": "Continue",
+      "id": "16"
+    }]
+  },
+  "32": {
+    "body": "The Dragon's Scale doesn't do anything.",
+    "actions": [{
+      "text": "Continue",
+      "id": "34"
+    }]
+  },
+  "33": {
+    "body": "Once you've put on the wings they speed you back to the castle.",
+    "actions": [{
+      "text": "Continue",
+      "id": "6"
+    }]
+  },
+  "34": {
+    "body": "A Magician appears.",
+    "actions": [{
+      "text": "Continue",
+      "id": "24"
+    }]
+  },
+  "35": {
+    "body": "You've attacked the Drakee and both of you received 3 points of damage.",
+    "actions": [{
+      "text": "Fight",
+      "id": "20"
+    }, {
+      "text": "Run",
+      "id": "6"
+    }, {
+      "text": "Spell",
+      "id": "43"
+    }]
+  },
+  "36": {
+    "body": "Running away from the enemy, you find yourself back at the castle.",
+    "actions": [{
+      "text": "Continue",
+      "id": "6"
+    }]
+  },
+  "37": {
+    "body": "Near a lake in the woods you come upon a Slime.",
+    "actions": [{
+      "text": "Continue",
+      "id": "8"
+    }]
+  },
+  "38": {
+    "body": "You have reached the town of Garinham and discovered that there is a locked door, behind which lies an important secret. You also learn that the princess is somewhere to the East. Where do you go?",
+    "actions": [{
+      "text": "East",
+      "id": "39"
+    }, {
+      "text": "West",
+      "id": "40"
+    }, {
+      "text": "North",
+      "id": "40"
+    }, {
+      "text": "South",
+      "id": "40"
+    }]
+  },
+  "39": {
+    "body": "Crossing the bridge you walk southward along the ocean shore where you see another bridge. Which direction do you go?",
+    "actions": [{
+      "text": "East",
+      "id": "41"
+    }, {
+      "text": "West",
+      "id": "42"
+    }]
+  },
+  "40": {
+    "body": "You really should go eastward.",
+    "actions": [{
+      "text": "Continue",
+      "id": "38"
+    }]
+  },
+  "41": {
+    "body": "Once you've crossed the bridge a Magidrakee appears, but it doesn't see you.",
+    "actions": [{
+      "text": "Fight",
+      "id": "17"
+    }, {
+      "text": "Run",
+      "id": "25"
+    }]
+  },
+  "42": {
+    "body": "Heading West takes you into the Poisonous Swamp. With every step your HP goes down. What do you do?",
+    "actions": [{
+      "text": "Use items",
+      "id": "31"
+    }, {
+      "text": "Use spell",
+      "id": "43"
+    }]
+  },
+  "43": {
+    "body": "Unfortunately, you haven't mastered the spell yet and you pass away in the bog. Alas.",
+    "actions": [{
+      "text": "Restart",
+      "id": "start"
+    }]
+  },
+  "44": {
+    "body": "In the eastern desert you encounter a Scorpion.",
+    "actions": [{
+      "text": "Fight",
+      "id": "47"
+    }, {
+      "text": "Run",
+      "id": "48"
+    }, {
+      "text": "Spell",
+      "id": "49"
+    }]
+  },
+  "45": {
+    "body": "To the North you see a town. You head toward it, intending to rest at the Inn and restore your strength.",
+    "actions": [{
+      "text": "Continue",
+      "id": "50"
+    }]
+  },
+  "46": {
+    "body": "You are in the Poisoned Swamp. What should you do?",
+    "actions": [{
+      "text": "Continue forward",
+      "id": "53"
+    }, {
+      "text": "Go back",
+      "id": "45"
+    }]
+  },
+  "47": {
+    "body": "The Scorpion's attack inflicted 5 damage points while you gave it 8 damage points. What do you do now?",
+    "actions": [{
+      "text": "Fight",
+      "id": "54"
+    }, {
+      "text": "Run",
+      "id": "48"
+    }, {
+      "text": "Spell",
+      "id": "49"
+    }]
+  },
+  "48": {
+    "body": "You are attacked and lose a great deal of HP. You need to return to the town and recover. Which direction do you go?",
+    "actions": [{
+      "text": "West",
+      "id": "6"
+    }, {
+      "text": "North",
+      "id": "45"
+    }, {
+      "text": "South",
+      "id": "46"
+    }]
+  },
+  "49": {
+    "body": "The Hurt spell is delivered and the enemy gets 10 damage points.",
+    "actions": [{
+      "text": "Fight",
+      "id": "51"
+    }, {
+      "text": "Run",
+      "id": "48"
+    }, {
+      "text": "Spell",
+      "id": "52"
+    }]
+  },
+  "50": {
+    "body": "A Skeleton attacks before you reach the village.",
+    "actions": [{
+      "text": "Fight",
+      "id": "55"
+    }, {
+      "text": "Run",
+      "id": "56"
+    }, {
+      "text": "Spell",
+      "id": "57"
+    }]
+  },
+  "51": {
+    "body": "You inflicted 5 points of damage and defeated the monster, but you need to recover HP at a town.",
+    "actions": [{
+      "text": "Continue",
+      "id": "45"
+    }]
+  },
+  "52": {
+    "body": "The Hurt spell inflicted 8 damage points.",
+    "actions": [{
+      "text": "Continue",
+      "id": "45"
+    }]
+  },
+  "53": {
+    "body": "Weakened from battle, you come upon a cave and, with a lit torch, enter. There a Druin attacks from the shadows. Your HP is down to 5. What do you do?",
+    "actions": [{
+      "text": "Fight",
+      "id": "58"
+    }, {
+      "text": "Run",
+      "id": "56"
+    }, {
+      "text": "Spell",
+      "id": "59"
+    }]
+  },
+  "54": {
+    "body": "Your attack gave the monster 20 points of damage.",
+    "actions": [{
+      "text": "Continue",
+      "id": "45"
+    }]
+  },
+  "55": {
+    "body": "The attack on the Skeleton leaves you with only 6 HP and 0 MP. The Skeleton received 6 points of damage.",
+    "actions": [{
+      "text": "Fight",
+      "id": "62"
+    }, {
+      "text": "Run",
+      "id": "61"
+    }, {
+      "text": "Spell",
+      "id": "63"
+    }]
+  },
+  "56": {
+    "body": "The enemy has cut off your retreat and attacks!",
+    "actions": [{
+      "text": "Continue",
+      "id": "60"
+    }]
+  },
+  "57": {
+    "body": "Your Hurt spell inflicted 8 points of damage while you received 10 damage points.",
+    "actions": [{
+      "text": "Fight",
+      "id": "55"
+    }, {
+      "text": "Run",
+      "id": "61"
+    }, {
+      "text": "Spell",
+      "id": "55"
+    }]
+  },
+  "58": {
+    "body": "Your attack gave 7 points of damage to the enemy and you sustained 6 points of damage.",
+    "actions": [{
+      "text": "Continue",
+      "id": "60"
+    }]
+  },
+  "59": {
+    "body": "Using the Hurt spell you inflicted 10 points of damage, but received 6.",
+    "actions": [{
+      "text": "Continue",
+      "id": "60"
+    }]
+  },
+  "60": {
+    "body": "Alas, you have died without completing your quest. If you return to Start you can try again.",
+    "actions": [{
+      "text": "Start over",
+      "id": "start"
+    }]
+  },
+  "61": {
+    "body": "You have escaped and, after recovering your strength at an Inn, you are ready to go.",
+    "actions": [{
+      "text": "Continue",
+      "id": "50"
+    }]
+  },
+  "62": {
+    "body": "Your attack using the Club defeats the enemy with 15 damage points. Your Level goes up to 7. Your Maximum HP is 39, MP 26.",
+    "actions": [{
+      "text": "Continue",
+      "id": "64"
+    }]
+  },
+  "63": {
+    "body": "You cannot use the spell because your MP is 0.",
+    "actions": [{
+      "text": "Continue",
+      "id": "55"
+    }]
+  },
+  "64": {
+    "body": "Congratulations - You have reached a village where people tell you to go South through the Poisoned Swamp to the town of Rimuldar. But first you should buy a Copper Sword, half plate armor and a small shield. Also stock up on Herb for the long journey. You have succeeded in overcoming the early stages of Dragon Warrior, just as you would in the real game. Contragulations. It is a game of choices and strategy, as you can see, and the further you go in this world the more you are able to do. Items must be found and mysteries solved, but you must also continue gaining experience against the monsters of the Dragonlord.",
+    "actions": [{
+      "text": "Restart",
+      "id": "start"
+    }]
+  }
+}

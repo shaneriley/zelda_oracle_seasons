@@ -1,0 +1,11 @@
+<h1>The Village Shop</h1>
+
+<p>Link walked around the village, and he found a small shop. When he tried to enter, he noticed a sign hanging from the door.</p>
+
+<p><code>CLOSED. COME AGAIN!</code></p>
+
+<p><i>Closed...too bad,</i> thought Link. <i>I could have used some supplies. I'll come back later and see if they've returned.</i></p>
+
+<p>Link pulled his cloak tighter against the cold wind and left the shop behind.</p>
+
+Turn to page 86

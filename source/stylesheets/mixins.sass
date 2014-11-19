@@ -1,0 +1,165 @@
+@function image($src)
+  @return url("/images/#{$src}")
+
+$prefixes: moz, ms, webkit, khtml, o
+
+@function ie_color_fix($color)
+  @if $color == #ffffff
+    $color: #fffffe
+  @else if $color == #fff
+    $color: #fffffe
+  @else if $color == #000000
+    $color: #000001
+  @else if $color == #000
+    $color: #000001
+  @return $color
+
+= font-smoothing
+  -webkit-font-smoothing: antialiased
+= image-smoothing
+  image-rendering: optimizeSpeed
+  image-rendering: -webkit-optimize-contrast
+  image-rendering: -moz-crisp-edges
+  -ms-interpolation-mode: nearest-neighbor
+= user-select($val)
+  -webkit-user-select: $val
+  -khtml-user-select: $val
+  -moz-user-select: $val
+  -ms-user-select: $val
+  -o-user-select: $val
+  user-select: $val
+= border-image($args...)
+  @each $prefix in $prefixes
+    -#{$prefix}-border-image: $args
+  border-image: $args
+= border-top-radius($radius)
+  border-top-left-radius: $radius
+  border-top-right-radius: $radius
+= border-bottom-radius($radius)
+  border-bottom-left-radius: $radius
+  border-bottom-right-radius: $radius
+= border-left-radius($radius)
+  border-top-left-radius: $radius
+  border-bottom-left-radius: $radius
+= border-right-radius($radius)
+  border-top-right-radius: $radius
+  border-bottom-right-radius: $radius
+= box-shadow($arguments)
+  -webkit-box-shadow: $arguments
+  -moz-box-shadow: $arguments
+  box-shadow: $arguments
+= opacity($val)
+  opacity: $val
+  filter: alpha(opacity=$val*100)
+= gradient-bg($color1, $color2, $color3: null)
+  @if $color3 == null
+    background-color: $color1
+  @else
+    background-color: $color3
+  background-image: -moz-linear-gradient(100% 100% 90deg, $color2, $color1)
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from($color1), to($color2))
+  $color1: ie_color_fix($color1)
+  $color2: ie_color_fix($color2)
+  $color3: ie_color_fix($color3)
+  -ms-filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#{$color1}, endColorstr=#{$color2})
+= gradient-stop($color1, $color2, $color3, $color4)
+  background-color: $color1
+  background-image: -moz-linear-gradient(top, $color1 0%, $color2 50%, $color3 51%, $color4 100%)
+  background-image: -webkit-linear-gradient(top, $color1 0%, $color2 50%, $color3 51%, $color4 100%)
+  background-image: -o-linear-gradient(top, $color1 0%, $color2 50%, $color3 51%, $color4 100%)
+  background-image: -ms-linear-gradient(top, $color1 0%, $color2 50%, $color3 51%, $color4 100%)
+  background-image: linear-gradient(top, $color1 0%, $color2 50%, $color3 51%, $color4 100%)
+  $color1: ie_color_fix($color1)
+  $color2: ie_color_fix($color2)
+  $color3: ie_color_fix($color3)
+  $color4: ie_color_fix($color4)
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#{$color1}, endColorstr=#{$color4},GradientType=0 )
+  -ms-filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#{$color1}, endColorstr=#{$color4})
+= gradient-fixed($color1, $color2, $h, $direction: top)
+  @each $prefix in $prefixes
+    background-image: -#{$prefix}-linear-gradient($direction, $color1 0%, $color2 $h)
+  background-image: linear-gradient($direction, $color1 0%, $color2 $h)
+= transition($args...)
+  -webkit-transition: $args
+  -moz-transition: $args
+  -o-transition: $args
+= rotate($deg)
+  -webkit-transform: rotate(#{$deg}deg)
+  -moz-transform: rotate(#{$deg}deg)
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=#{$deg / 90})
+= image-replace($img:null, $type:png)
+  display: block
+  font-size: 1px
+  text-indent: -8685px
+  overflow: hidden
+  @if $img != null
+    background: url(#{$img}.#{$type}) no-repeat
+= font-face($font_name, $font_path)
+  @font-face
+    font-family: '#{$font_name}'
+    src: url('/fonts/#{$font_path}.eot')
+    src: url('/fonts/#{$font_path}.eot?iefix') format('eot'), url('/fonts/#{$font_path}.woff') format('woff'), url('/fonts/#{$font_path}.ttf') format('truetype'), url('/fonts/#{$font_path}.svg#webfont') format('svg')
+= box-sizing($type: border-box)
+  @each $prefix in moz, ms, webkit
+    -#{$prefix}-box-sizing: $type
+  box-sizing: $type
+= background-clip($value: padding)
+  -moz-background-clip: padding
+  -webkit-background-clip: padding
+  background-clip: padding-box
+= display_box($orient: horizontal, $pack: center, $align: center)
+  @each $prefix in -moz-, -webkit-, ""
+    display: #{$prefix}box
+    #{$prefix}box-pack: $pack
+    #{$prefix}box-orient: $orient
+    #{$prefix}box-align: $align
+= appearance($prop)
+  -webkit-appearance: $prop
+  -moz-appearance: $prop
+
+= retina
+  @media screen and (-webkit-min-device-pixel-ratio: 2), screen and (min-device-pixel-ratio: 2)
+    @content
+
+= max-width($width: 900)
+  @media screen and (max-width: #{$width}px)
+    @content
+= mobile
+  +max-width(480)
+    @content
+= tablet
+  +max-width(768)
+    @content
+= iphone
+  +max-width(320)
+    @content
+
+= retina_bg($filename, $dimensions: false, $ext:"png")
+  background-image: image("#{$filename}.#{$ext}")
+  +retina
+    background-image: image("#{$filename}@2x.#{$ext}")
+    @if $dimensions != false
+      background-size: $dimensions
+
+= transform($props)
+  @each $prefix in -moz-, -webkit-, ""
+    #{$prefix}transform: $props
+
+@mixin placeholder
+  @each $prefix in "::-webkit-input", ":-moz", "::-moz", ":-ms-input"
+    #{$prefix}-placeholder
+      @content
+
+@function image($url)
+  @return url("/images/#{$url}")
+
+= button
+  display: inline-block
+  padding: 15px 25px
+  font-size: 14px
+  font-weight: bold
+  text-transform: uppercase
+  color: #ffffff
+  +font-smoothing
+  border-radius: 5px
+  background: #118056
