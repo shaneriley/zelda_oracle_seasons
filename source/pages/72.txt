@@ -1,0 +1,21 @@
+<h1>Outside Horon Village</h1>
+
+<p>Rather than explore the village, Link decided to explore the countryside nearby for clues to help him find Din.</p>
+
+<p>North of the village, Link quickly ran into trouble. Several creatures spotted him, and he was forced to retreat. With no weapon, he realized that he shouldn't be wandering around in the wilderness.</p>
+
+<p><i>I'd better go back to the village, and maybe later I'll be ready to explore here,</i> he thought. With that, Link returned to Horon Village.</p>
+
+<h2>Which building should Link enter?</h2>
+<b>Biping and Blossom's home.</b>
+Turn to page 60.
+<b>The Clock Shop.</b>
+Turn to page 8.
+<b>The Ring Shop.</b>
+Turn to page 42.
+<b>Mayor's mansion.</b>
+Turn to page 80
+<b>The Village Shop.</b>
+Turn to page 9.
+<b>Enter the gate.</b>
+Turn to page 34.

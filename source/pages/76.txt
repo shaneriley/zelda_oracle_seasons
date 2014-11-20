@@ -1,0 +1,9 @@
+<h1>Hero's Cave: Dead End!</h1>
+
+<p>Link entered the door on the south side of the chamber and found himself in a large, square room with a locked door on the east wall. To make matters worse, there were four spiders in the room, and they had already spotted him.</p>
+
+<p>Dodging the spiders, Link quickly explored the room. There was no key to be found, but he did see four square platforms. He experimented by pushing them, but nothing happened.</p>
+
+<p>"The key must be in another chamber," he said, and left the room through the north doorway. He was once more in the chamber with the sliding block, but this time he pushed the block and entered the door on the north side of the room.</p>
+
+Turn to page 26

@@ -1,0 +1,16 @@
+<h1>The Explorer's Crypt</h1>
+
+<p>On the western coast of Horon Village, Link found an ancient graveyard on the west side of the pirate ship anchored nearby. Inside, he found a set of stairs that led into the Explorer's Crypt.</p>
+
+<p>The Crypt was a dark and mysterious place, and Link could tell instantly that there was a curse laid upon its very walls. As he walked through the first few chambers of the Crypt, several Stalfos attacked him. After he took care of them, he noticed that if he walked through the room in different directions, the exits would take him to different rooms. He decided to handle all the rooms the same way - he would walk in a clockwise direction each time. That way his choices would all be the same.</p>
+
+<p>He came to a ledge above a dark room. Since he couldn't see anything, he loaded the Slingshot he'd found during his travels with Ember Seeds and shot the two torches on the ledge.</p>
+
+<p>Immediately, a horrible ghost appeared from a nearby gravestone.</p>
+
+<h2>What should Link do?</h2>
+
+<b>Fight the ghost.</b>
+Turn to page 28.
+<b>Run away.</b>
+Turn to page 71.
