@@ -1,14 +1,10 @@
-<h1>Sword and Shield: Medusa Head</h1>
-
-<p>Inside the final chamber, Link faced the final boss of the dungeon. The Medusa Head was a massive, blue creature with many serpents growing from her head. One touch from her white fireballs and Link would be turned to stone for a short time. If she managed to hit him with her other attacks during that time, Link would be history!</p>
-
-<p>Instinctively, Link realized that he might be able to stun her momentarily with his Pegasus Seeds - the seeds that would freeze nearly any creature in its tracks. He dodged her attacks until he could get close enough, then he hit her with a Pegasus Seed. It worked! The Medusa Head was frozen for a second or two, long enough for Link to slash at her several times with his sword.</p>
-
-<p>Unfortunately, she shook off the effects of the seed and attacked him again. Link danced away, evading her attacks. He kept up the attack, using the Pegasus Seeds to slow her and his sword to damage her.</p>
-
-<p>The battle was long and slow, but Link was determined not to fail. It wasn't long before the Medusa Head could take no more and disappeared in a flash of light.</p>
-
-<p>In the next chamber, Link found the Changing Seasons Essence on a podium, and he put it in his pack.</p>
-
-If you have completed the Explorer's Crypt dungeon, turn to page 17.
-If you have not completed the Explorer's Crypt dungeon, turn to page 63.
+"50": {
+  "body": "<h1>Sword and Shield: Medusa Head</h1> <p>Inside the final chamber, Link faced the final boss of the dungeon. The Medusa Head was a massive, blue creature with many serpents growing from her head. One touch from her white fireballs and Link would be turned to stone for a short time. If she managed to hit him with her other attacks during that time, Link would be history!</p> <p>Instinctively, Link realized that he might be able to stun her momentarily with his Pegasus Seeds - the seeds that would freeze nearly any creature in its tracks. He dodged her attacks until he could get close enough, then he hit her with a Pegasus Seed. It worked! The Medusa Head was frozen for a second or two, long enough for Link to slash at her several times with his sword.</p> <p>Unfortunately, she shook off the effects of the seed and attacked him again. Link danced away, evading her attacks. He kept up the attack, using the Pegasus Seeds to slow her and his sword to damage her.</p> <p>The battle was long and slow, but Link was determined not to fail. It wasn't long before the Medusa Head could take no more and disappeared in a flash of light.</p> <p>In the next chamber, Link found the Changing Seasons Essence on a podium, and he put it in his pack.</p>",
+  "actions": [{
+    "text": "If you have completed the Explorer's Crypt dungeon,",
+    "id": "17"
+  }, {
+    "text": "If you have not completed the Explorer's Crypt dungeon,",
+    "id": "63"
+  }]
+}

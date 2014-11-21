@@ -1,17 +1,10 @@
-<h1>Hero's Cave: The Trap</h1>
-
-<p>Link decided to take his chances exploring the cave, since he didn't think he could fight the Octoroks outside or get away from them.</p>
-
-<p><i>If I see any enemies in here, or if something attacks me, I'll have to get away instead of stopping to fight,</i> he thought. He could hear noises around him as he explored the first chamber, so he ran quickly into the next room.</p>
-
-<p>As soon as he entered the room, the doors on the north and south sides closed, trapping him inside!</p>
-
-<p>Link noticed a small platform in the center of the room. He didn't see anything remarkable about it, but as he looked closely he could see that there were scratch marks on the floor around the platform.</p>
-
-<p>Hoping he was doing the right thing, Link put his shoulder against the side of the platform and pushed it. The platform slowly slid across the floor, and suddenly, the doors to the room opened again!</p>
-
-<h2>What door should Link choose?</h2>
-<b>North.</b>
-Turn to page 26.
-<b>South.</b>
-Turn to page 76.
+"54": {
+  "body": "<h1>Hero's Cave: The Trap</h1> <p>Link decided to take his chances exploring the cave, since he didn't think he could fight the Octoroks outside or get away from them.</p> <p><i>If I see any enemies in here, or if something attacks me, I'll have to get away instead of stopping to fight,</i> he thought. He could hear noises around him as he explored the first chamber, so he ran quickly into the next room.</p> <p>As soon as he entered the room, the doors on the north and south sides closed, trapping him inside!</p> <p>Link noticed a small platform in the center of the room. He didn't see anything remarkable about it, but as he looked closely he could see that there were scratch marks on the floor around the platform.</p> <p>Hoping he was doing the right thing, Link put his shoulder against the side of the platform and pushed it. The platform slowly slid across the floor, and suddenly, the doors to the room opened again!</p> <h2>What door should Link choose?</h2>",
+  "actions": [{
+    "text": "North.",
+    "id": "26"
+  }, {
+    "text": "South.",
+    "id": "76"
+  }]
+}

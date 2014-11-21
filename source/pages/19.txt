@@ -1,9 +1,6 @@
-<h1>The Explorer's Crypt: Basement</h1>
-
-<p>Link carefully made his way into the basement of the Crypt. Near the bottom of the stairs, he found several huge statues surrounding the stairs. As he explored the room, he also found that he was locked in - the door in the south wall was locked, and there was no other way out of the room.</p>
-
-<p>He had been in enough situations like this to realize that the statues were probably the key to getting out of this room. As he pushed each one of the statues, they began to glow. Suddenly, they attacked! Link slashed at them with his sword and quickly destroyed all but one of them. The final statue had not glowed when he touched it, so he took a closer look at it. Near the statue, he saw a place on the floor that looked different, so he pushed the statue until it was on that spot. The door to the south opened, allowing Link to leave the room.</p>
-
-<p>Link found a set of stairs and took them down to a lower level, where he found a Dungeon Map. <i>This will show me where the enemies, chests, and items are in the dungeon,</i> thought Link.</p>
-
-Turn to page 29
+"19": {
+  "body": "<h1>The Explorer's Crypt: Basement</h1> <p>Link carefully made his way into the basement of the Crypt. Near the bottom of the stairs, he found several huge statues surrounding the stairs. As he explored the room, he also found that he was locked in - the door in the south wall was locked, and there was no other way out of the room.</p> <p>He had been in enough situations like this to realize that the statues were probably the key to getting out of this room. As he pushed each one of the statues, they began to glow. Suddenly, they attacked! Link slashed at them with his sword and quickly destroyed all but one of them. The final statue had not glowed when he touched it, so he took a closer look at it. Near the statue, he saw a place on the floor that looked different, so he pushed the statue until it was on that spot. The door to the south opened, allowing Link to leave the room.</p> <p>Link found a set of stairs and took them down to a lower level, where he found a Dungeon Map. <i>This will show me where the enemies, chests, and items are in the dungeon,</i> thought Link.</p>",
+  "actions": [{
+    "id": "29"
+  }]
+}

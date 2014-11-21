@@ -1,5 +1,6 @@
-<h1>Retreat!</h1>
-
-<p>Link didn't hesitate - as soon as he saw the ghost, he turned and ran from the room. Unfortunately, the ghost was much faster than he was, and it blocked his exit. Before Link could use his sword, he was knocked unconscious, and he fell to the dungeon floor.</p>
-
-Turn to page 77
+"71": {
+  "body": "<h1>Retreat!</h1> <p>Link didn't hesitate - as soon as he saw the ghost, he turned and ran from the room. Unfortunately, the ghost was much faster than he was, and it blocked his exit. Before Link could use his sword, he was knocked unconscious, and he fell to the dungeon floor.</p>",
+  "actions": [{
+    "id": "77"
+  }]
+}

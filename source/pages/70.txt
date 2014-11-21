@@ -1,9 +1,6 @@
-<h1>Tricks and Traps</h1>
-
-<p>The Roc's Cape that Link found earlier proved to be very valuable. When he came across floors that would crack and begin to break as soon as he landed on them, he was able to jump to another floor tile before the floor collapsed. The deeper he went into the Crypt, the more often this happened.</p>
-
-<p>Link also had to use the Magnetic Gloves he had found in another dungeon several times. The gloves pulled him toward magnets, or pushed him away if he changed their polarity. Using this trick, Link was able to cross huge pits and reach areas that the Roc's Cape alone couldn't help him reach.</p>
-
-<p>After a very difficult place where there was hardly any floor for him to stand on, Link had to battle a room full of Stalfos. The pesky skeletons nearly did him in, but he managed to defeat them and open the chest that appeared in the room. Inside, he found the Boss Key. The Boss Key would unlock the final door that led to the master of this dungeon - Gleeok.</p>
-
-Turn to page 25
+"70": {
+  "body": "<h1>Tricks and Traps</h1> <p>The Roc's Cape that Link found earlier proved to be very valuable. When he came across floors that would crack and begin to break as soon as he landed on them, he was able to jump to another floor tile before the floor collapsed. The deeper he went into the Crypt, the more often this happened.</p> <p>Link also had to use the Magnetic Gloves he had found in another dungeon several times. The gloves pulled him toward magnets, or pushed him away if he changed their polarity. Using this trick, Link was able to cross huge pits and reach areas that the Roc's Cape alone couldn't help him reach.</p> <p>After a very difficult place where there was hardly any floor for him to stand on, Link had to battle a room full of Stalfos. The pesky skeletons nearly did him in, but he managed to defeat them and open the chest that appeared in the room. Inside, he found the Boss Key. The Boss Key would unlock the final door that led to the master of this dungeon - Gleeok.</p>",
+  "actions": [{
+    "id": "25"
+  }]
+}

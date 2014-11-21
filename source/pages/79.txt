@@ -1,13 +1,10 @@
-<h1>Gnarled Root Dungeon: Entry</h1>
-
-<p>ONce inside the dungeon, Link knew he had to explore carefully - there was no telling what creatures lived in a place like this, or what traps might lurk in the darkness. The first room of the dungeon was creepy - watching eyes peered at him from platforms scattered around the room. Link quickly ran past them into the next room.</p>
-
-<p>As soon as he entered the room, all the doors slammed shut. He was trapped! Link searched the room and found four stone blocks. Remembering the sliding block in the Hero's Cave, Link guessed that one of these blocks would unlock the doors. After a few tries, he found that if he pushed the northeast block in any direction, the doors would unlock.</p>
-
-<p>Now Link had a choice - there were two open doors, north and east. The door to the west was locked.</p>
-
-<h2>Which door should Link enter?</h2>
-<b>North.</b>
-Turn to page 78.
-<b>East.</b>
-Turn to page 68.
+"79": {
+  "body": "<h1>Gnarled Root Dungeon: Entry</h1> <p>Once inside the dungeon, Link knew he had to explore carefully - there was no telling what creatures lived in a place like this, or what traps might lurk in the darkness. The first room of the dungeon was creepy - watching eyes peered at him from platforms scattered around the room. Link quickly ran past them into the next room.</p> <p>As soon as he entered the room, all the doors slammed shut. He was trapped! Link searched the room and found four stone blocks. Remembering the sliding block in the Hero's Cave, Link guessed that one of these blocks would unlock the doors. After a few tries, he found that if he pushed the northeast block in any direction, the doors would unlock.</p> <p>Now Link had a choice - there were two open doors, north and east. The door to the west was locked.</p> <h2>Which door should Link enter?</h2>",
+  "actions": [{
+    "text": "North.",
+    "id": "78"
+  }, {
+    "text": "East.",
+    "id": "68"
+  }]
+}

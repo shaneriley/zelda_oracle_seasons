@@ -1,7 +1,6 @@
-<h1>Sword and Shield: Basement Dungeon</h1>
-
-<p>The basement dungeon was lit by the fiery glow of lava far below. Link climbed down the stairs, which ended in a ledge that overlooked the lava. Across the lava, he could see another ledge, but it was hard to see because there were fireballs circling it. The room was also full of Keese, so Link used his Boomerang to get rid of them first.</p>
-
-<p>Link watched the fireballs, then timed a jump between them to reach the ledge. Once he was on the ledge, he saw another ledge and timed another jump to reach it. Having made the difficult crossing, Link clumbed the stairs that led from the ledge back upstairs.</p>
-
-Turn to page 36
+"16": {
+  "body": "<h1>Sword and Shield: Basement Dungeon</h1> <p>The basement dungeon was lit by the fiery glow of lava far below. Link climbed down the stairs, which ended in a ledge that overlooked the lava. Across the lava, he could see another ledge, but it was hard to see because there were fireballs circling it. The room was also full of Keese, so Link used his Boomerang to get rid of them first.</p> <p>Link watched the fireballs, then timed a jump between them to reach the ledge. Once he was on the ledge, he saw another ledge and timed another jump to reach it. Having made the difficult crossing, Link clumbed the stairs that led from the ledge back upstairs.</p>",
+  "actions": [{
+    "id": "36"
+  }]
+}

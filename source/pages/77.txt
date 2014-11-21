@@ -1,7 +1,6 @@
-<h1>End of the Road</h1>
-
-<p>Link woke up and found himself on the floor in front of the Triforce. "I'm back in Hyrule!" he exclaimed. He remembered his quest to help Din, but now he knew that he had failed. <i>What will I tell Zelda?</i> he thought. With a heavy heart, Link turned from the Triforce and left the room, wishing that he had another chance to rescue Din and defeat Onox.</p>
-
-<h2>The End</h2>
-
-<p><b>Sorry, but you've reached the worst possible ending of this story. Care to try again?</b></p>
+"77": {
+  "body": "<h1>End of the Road</h1> <p>Link woke up and found himself on the floor in front of the Triforce. \"I'm back in Hyrule!\" he exclaimed. He remembered his quest to help Din, but now he knew that he had failed. <i>What will I tell Zelda?</i> he thought. With a heavy heart, Link turned from the Triforce and left the room, wishing that he had another chance to rescue Din and defeat Onox.</p> <h2>The End</h2> <p><b>Sorry, but you've reached the worst possible ending of this story. Care to try again?</b></p>",
+  "actions": [{
+    "id": "start"
+  }]
+}

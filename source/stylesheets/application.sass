@@ -3,28 +3,35 @@
 body
   padding: 50px 0 0 0
   font: normal 16px Georgia, serif
-  background: #3f3e8e
+  background: #c85447
 
-header
-  width: 900px
-  height: 320px
-  margin: 0 auto 20px auto
-  background: transparent url("../images/logo.jpg") 0 0 no-repeat
+h1
+  padding: 0 0 25px 0
+  font-size: 28px
+  text-align: center
 
-h1,
 h2
-  text-indent: -8685px
-
-h3
+  padding: 0 0 15px 0
   font-size: 20px
 
+img
+  width: 400px
+  margin: 0 25px 0 0
+  vertical-align: middle
+
+section
+  display: inline-block
+  width: 425px
+  vertical-align: middle
+
 article
+  overflow: hidden
   width: 858px
   padding: 20px
   margin: 0 auto
   text-align: center
-  border: 1px dashed #53533b
-  background: #eacc9a
+  border: 3px double #4c3f6d
+  background: lighten(#fee447, 15%)
   p
     padding: 0 0 20px 0
     text-align: left
@@ -34,7 +41,10 @@ article
     padding: 0 0 0 25px
     font-size: 20px
     text-align: left
-    list-style: upper-alpha
+    p
+      padding: 0 0 5px 0
+    li + li
+      padding-top: 15px
   a
     text-decoration: none
     color: #3f3e8e
@@ -43,6 +53,6 @@ footer
   padding: 15px 0
   font-size: 12px
   text-align: center
-  color: #b5b5b5
+  color: #333333
   a
-    color: #ffffff
+    color: #fee447

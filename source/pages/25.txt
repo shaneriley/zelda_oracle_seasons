@@ -1,13 +1,10 @@
-<h1>Gleeok</h1>
-
-<p>Once Link used the Boss Key to unlock the final door, he had to face Gleeok, the guardian of the Essence of Life. Gleeok was a huge, two-headed dragon that spit fireballs from both heads whenever Link got too close. Using the Roc's Cape and his Noble Sword, Link was able to avoid Gleeok's fireball attacks, and he was also able to get close enough to the dragon to cut off one of its heads!</p>
-
-<p>Link was proud of himself, but he soon found out that he wasn't done yet. Gleeok's head was floating around the room and as he watched, it reattached itself to the neck it had been cut from! The dragon was as fierce as he was before, and both heads again spit fireballs at Link.</p>
-
-<p>He tried a few other things, but Link finally decided that to kill Gleeok, he had to hit the other head before the severed one returned to its neck. After several tries and more than one close call, Link was able to strike both heads from the dragon's necks and destroy it.</p>
-
-<p>With the dragon out of the way, it was a short walk to the room where Link found the Essence of Life.</p>
-
-If you have completed the Sword and Shield Dungeon, turn to page 17
-
-If you have not completed the Sword and Shield Dungeon, turn to page 11
+"25": {
+  "body": "<h1>Gleeok</h1> <p>Once Link used the Boss Key to unlock the final door, he had to face Gleeok, the guardian of the Essence of Life. Gleeok was a huge, two-headed dragon that spit fireballs from both heads whenever Link got too close. Using the Roc's Cape and his Noble Sword, Link was able to avoid Gleeok's fireball attacks, and he was also able to get close enough to the dragon to cut off one of its heads!</p> <p>Link was proud of himself, but he soon found out that he wasn't done yet. Gleeok's head was floating around the room and as he watched, it reattached itself to the neck it had been cut from! The dragon was as fierce as he was before, and both heads again spit fireballs at Link.</p> <p>He tried a few other things, but Link finally decided that to kill Gleeok, he had to hit the other head before the severed one returned to its neck. After several tries and more than one close call, Link was able to strike both heads from the dragon's necks and destroy it.</p> <p>With the dragon out of the way, it was a short walk to the room where Link found the Essence of Life.</p>",
+  "actions": [{
+    "text": "If you have completed the Sword and Shield Dungeon,",
+    "id": "17"
+  }, {
+    "text": "If you have not completed the Sword and Shield Dungeon,",
+    "id": "11"
+  }]
+}

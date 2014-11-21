@@ -1,9 +1,6 @@
-<h1>Sword and Shield Dungeon: Entry</h1>
-
-<p>Link cautiously entered the dungeon and found himself in a long hallway that led north. In the first section of the hallway, there was a small room to the east. Link entered it and saw a strange stone block with an eye on it across the room. A pit kept Link from reaching the block, so he pulled out his Slingshot and loaded it with seeds. He tried all the seeds he had, but when he hit the block with a Mystery Seed, a small key dropped onto the floor on his side of the pit.</p>
-
-<p>He grabbed the key and left the room, continuing north. Link found another key when he defeated a Hardhat Beetle in another of the rooms along the hallway. From this room, he headed east, deeper into the dungeon.</p>
-
-<p>In a small chamber full of Keese, Link found some stairs that led down into the basement. He avoided the Wallmaster in the room and took the stairs down to the dungeon below.</p>
-
-Turn to page 16
+"91": {
+  "body": "<h1>Sword and Shield Dungeon: Entry</h1> <p>Link cautiously entered the dungeon and found himself in a long hallway that led north. In the first section of the hallway, there was a small room to the east. Link entered it and saw a strange stone block with an eye on it across the room. A pit kept Link from reaching the block, so he pulled out his Slingshot and loaded it with seeds. He tried all the seeds he had, but when he hit the block with a Mystery Seed, a small key dropped onto the floor on his side of the pit.</p> <p>He grabbed the key and left the room, continuing north. Link found another key when he defeated a Hardhat Beetle in another of the rooms along the hallway. From this room, he headed east, deeper into the dungeon.</p> <p>In a small chamber full of Keese, Link found some stairs that led down into the basement. He avoided the Wallmaster in the room and took the stairs down to the dungeon below.</p>",
+  "actions": [{
+    "id": "16"
+  }]
+}

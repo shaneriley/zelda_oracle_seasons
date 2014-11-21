@@ -1,11 +1,6 @@
-<h1>Margaret and Amy</h1>
-
-<p>Link explored much more of the crypt. He made it past crumbling floors, evil creatures, and tricky traps, until he finally reached a large open room. Just beyond this room, he found a chamber with two ghosts inside - the one he had defeated earlier and another one. Their names (when they had names) were Margaret and Amy.</p>
-
-<p>"You must keep the torches in this room lit, Link, or we'll send you back to the dungeon entrance!" they threatened. With that, the two ghosts began circling the room, heading for the torches. Link didn't waste any time. He loaded his slingshot with Ember Seeds and waited.</p>
-
-<p>As soon as one of the ghosts blew out a torch, Link fired an Ember Seed at it to relight it. He kept this op to keep the torches lit, and he also used his sword on the ghosts whenever they floated nearby.</p>
-
-<p>Finally, realizing that they couldn't blow out all the torches, and injured by Link's sword, the two ghosts disappeared, leaving Link free to keep exploring.</p>
-
-Turn to page 70
+"10": {
+  "body": "<h1>Margaret and Amy</h1> <p>Link explored much more of the crypt. He made it past crumbling floors, evil creatures, and tricky traps, until he finally reached a large open room. Just beyond this room, he found a chamber with two ghosts inside - the one he had defeated earlier and another one. Their names (when they had names) were Margaret and Amy.</p> <p>\"You must keep the torches in this room lit, Link, or we'll send you back to the dungeon entrance!\" they threatened. With that, the two ghosts began circling the room, heading for the torches. Link didn't waste any time. He loaded his slingshot with Ember Seeds and waited.</p> <p>As soon as one of the ghosts blew out a torch, Link fired an Ember Seed at it to relight it. He kept this op to keep the torches lit, and he also used his sword on the ghosts whenever they floated nearby.</p> <p>Finally, realizing that they couldn't blow out all the torches, and injured by Link's sword, the two ghosts disappeared, leaving Link free to keep exploring.</p>",
+  "actions": [{
+    "id": "70"
+  }]
+}

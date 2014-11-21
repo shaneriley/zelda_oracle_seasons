@@ -1,9 +1,6 @@
-<h1>Sword and Shield Dungeon</h1>
-
-<p>The Maku Tree told Link that the Sword and Shield Dungeon was in Subrosia, near the ruins of the Temple of Seasons. When Link arrived at the Temple ruis, he found a warp that sent him to an area he hadn't been able to reach before. When he stepped through the warp, he found a small cave to the north.</p>
-
-<p>A Subrisian was throwing items into a lava pit, and he asked Link if he would throw a bomb into the pit for him. Link waasn't sure why he agreed, but he did. The bomb exploded, triggering a massive lava eruption. The Temple shook, and lava burned away walls, revealing areas Link hadn't been able to reach before.</p>
-
-<p>Link searched the area on both sides of the warp to see what had changed, and he found his way to the Sword and Shield Dungeon entrance.</p>
-
-Turn to page 91
+"11": {
+  "body": "<h1>Sword and Shield Dungeon</h1> <p>The Maku Tree told Link that the Sword and Shield Dungeon was in Subrosia, near the ruins of the Temple of Seasons. When Link arrived at the Temple ruis, he found a warp that sent him to an area he hadn't been able to reach before. When he stepped through the warp, he found a small cave to the north.</p> <p>A Subrisian was throwing items into a lava pit, and he asked Link if he would throw a bomb into the pit for him. Link waasn't sure why he agreed, but he did. The bomb exploded, triggering a massive lava eruption. The Temple shook, and lava burned away walls, revealing areas Link hadn't been able to reach before.</p> <p>Link searched the area on both sides of the warp to see what had changed, and he found his way to the Sword and Shield Dungeon entrance.</p>",
+  "actions": [{
+    "id": "91"
+  }]
+}

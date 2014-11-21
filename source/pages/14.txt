@@ -1,22 +1,6 @@
-<h1>Sword and Shield: The Ice Chamber</h1>
-
-<p>North of the room where he defeated Frypolar, Link entered a large, icy room. The floor of this room was completely covered in ice, making his footing very slippery. Link carefully explored the chamber and found something interesting.</p>
-
-<p>There were three ice blocks, and three regular stone blocks in the room. There was also a niche in the east wall of the room that looked like it would hold all three ice blocks. After a few tries, Link was sure that he had to get all the ice blocks into that niche in the wall to get to the next room. The only problem was, once he poshed an ice block, it wouldn't stop until it hit something solid - a stone block or a wall.</p>
-
-<p>Link thought hard about this puzzle, then went to work moving blocks around. Here's the solution he came up with:</p>
-
-<ul>
-  <li>Push the west block south one space to rest against the row of stone blocks.</li>
-  <li>Push this same ice block east and it will bump the ice block to the east.</li>
-  <li>Push this same ice block north, and it will bump another ice block.</li>
-  <li>Push the northern ice block west, where it will rest against another stone block.</li>
-  <li>Push this ice block south to rest against the row of blocks.</li>
-  <li>Push this ice block east and it will bump the ice block to the east.</li>
-  <li>Now push this ice block north, and all three blocks will be in a north-to-south line.</li>
-  <li>Push all the blocks to the east, into the niche in the wall.</li>
-</ul>
-
-<p>Once Link had pushed the ice blocks into the niche, a stairway appeared on the north side of the room, and Link used it to leave the room.</p>
-
-Turn to page 73
+"14": {
+  "body": "<h1>Sword and Shield: The Ice Chamber</h1> <p>North of the room where he defeated Frypolar, Link entered a large, icy room. The floor of this room was completely covered in ice, making his footing very slippery. Link carefully explored the chamber and found something interesting.</p> <p>There were three ice blocks, and three regular stone blocks in the room. There was also a niche in the east wall of the room that looked like it would hold all three ice blocks. After a few tries, Link was sure that he had to get all the ice blocks into that niche in the wall to get to the next room. The only problem was, once he poshed an ice block, it wouldn't stop until it hit something solid - a stone block or a wall.</p> <p>Link thought hard about this puzzle, then went to work moving blocks around. Here's the solution he came up with:</p> <ul> <li>Push the west block south one space to rest against the row of stone blocks.</li> <li>Push this same ice block east and it will bump the ice block to the east.</li> <li>Push this same ice block north, and it will bump another ice block.</li> <li>Push the northern ice block west, where it will rest against another stone block.</li> <li>Push this ice block south to rest against the row of blocks.</li> <li>Push this ice block east and it will bump the ice block to the east.</li> <li>Now push this ice block north, and all three blocks will be in a north-to-south line.</li> <li>Push all the blocks to the east, into the niche in the wall.</li> </ul> <p>Once Link had pushed the ice blocks into the niche, a stairway appeared on the north side of the room, and Link used it to leave the room.</p>",
+  "actions": [{
+    "id": "73"
+  }]
+}

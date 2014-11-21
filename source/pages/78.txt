@@ -1,11 +1,6 @@
-<h1>Gnarled Root Dungeon: Lighten up!</h1>
-
-<p>Link decided to try the north door, and so he set off in that direction. Once inside the next room, he found a strange man. Link approached the man, and when he was close enough, the man spoke to him.</p>
-
-<p>"Light is the key. You must return light to unlit torches."</p>
-
-<p>Link wasn't sure what he meant, but he thanked the man. The man simply repeated his message and looked meaningfully at Link. Bored with the conversation, Link decided to return to the room to the south.</p>
-
-<p>"I guess I'll try the room to the east," he said once he had returned to the room with the four stone blocks. He pushed the northeast block, then entered the east door.</p>
-
-Turn to page 68
+"78": {
+  "body": "<h1>Gnarled Root Dungeon: Lighten up!</h1> <p>Link decided to try the north door, and so he set off in that direction. Once inside the next room, he found a strange man. Link approached the man, and when he was close enough, the man spoke to him.</p> <p>\"Light is the key. You must return light to unlit torches.\"</p> <p>Link wasn't sure what he meant, but he thanked the man. The man simply repeated his message and looked meaningfully at Link. Bored with the conversation, Link decided to return to the room to the south.</p> <p>\"I guess I'll try the room to the east,\" he said once he had returned to the room with the four stone blocks. He pushed the northeast block, then entered the east door.</p>",
+  "actions": [{
+    "id": "68"
+  }]
+}

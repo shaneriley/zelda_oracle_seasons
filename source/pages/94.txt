@@ -1,15 +1,6 @@
-<h1>Outside Horon Village</h1>
-
-<p>Link decided tat he should search the area outside Horon Village for the item the Maku Tree mentioned. Near the bridge that led to the Gnarled Root, Link noticed something odd about one of the trees. The tree nearest the water was younger than the others. Using an Ember Seed, Link burned it down to reveal a secret passage.</p>
-
-<p>Below, he found a wise man. "Shhh! Don't tell!" the wise man pleaded. "Here, take these one hundred Rupees and keep quiet - I'm meditating!" Link left quickly, pocketing the Rupees. Once he was back aboveground, Link headed east.</p>
-
-<p>He was immediately attacked by a swarm of Octoroks. It was a fierce battle, but Link was able to dodge their attacks and get past them. His path was blocked to the east, but a narrow path to the north led to a small house.</p>
-
-<p>The house was overrun with cucoos, and inside the house, he found Malon, a young lady with a problem. "You see, my father knows all about these birds, but he's gone and I don't have a clue what to do for them. Can you help?"</p>
-
-<p>"I don't know anything about them either," Link said, "but I'll keep my eyes open for anything that might help you."</p>
-
-<p>Link left the house and thought about his next move. "It looks like I'll have to go back to Horon Village - there's nowhere else to go out here." With that, Link trudged back to the south and entered the village again.</p>
-
-Turn to page 84
+"94": {
+  "body": "<h1>Outside Horon Village</h1> <p>Link decided tat he should search the area outside Horon Village for the item the Maku Tree mentioned. Near the bridge that led to the Gnarled Root, Link noticed something odd about one of the trees. The tree nearest the water was younger than the others. Using an Ember Seed, Link burned it down to reveal a secret passage.</p> <p>Below, he found a wise man. \"Shhh! Don't tell!\" the wise man pleaded. \"Here, take these one hundred Rupees and keep quiet - I'm meditating!\" Link left quickly, pocketing the Rupees. Once he was back aboveground, Link headed east.</p> <p>He was immediately attacked by a swarm of Octoroks. It was a fierce battle, but Link was able to dodge their attacks and get past them. His path was blocked to the east, but a narrow path to the north led to a small house.</p> <p>The house was overrun with cucoos, and inside the house, he found Malon, a young lady with a problem. \"You see, my father knows all about these birds, but he's gone and I don't have a clue what to do for them. Can you help?\"</p> <p>\"I don't know anything about them either,\" Link said, \"but I'll keep my eyes open for anything that might help you.\"</p> <p>Link left the house and thought about his next move. \"It looks like I'll have to go back to Horon Village - there's nowhere else to go out here.\" With that, Link trudged back to the south and entered the village again.</p>",
+  "actions": [{
+    "id": "84"
+  }]
+}

@@ -1,23 +1,6 @@
-<h1>The Mayor's Mansion</h1>
-
-<p>Located on a hill on the northeast side of the village Link saw a large mansion.</p>
-
-<p><i>Someone important must live here,</i> he tought. He knocked on the front door, and it immediately opened</p>
-
-<p>Inside, Link found Ruul, the mayor of Horon. The mayor was busy placing plants in small pots, but he looked up when Link walked in.</p>
-
-<p>"You must be Link. Din told me about you." A sad look crossed Ruul's face. "Of course, that was before she was taken."</p>
-
-<p>Link nodded grimly. "I'm going to bring her back. Is there anything you can tell me that might help?"</p>
-
-<p>"I'm afraid not, Link. For the most part, I'm a simple gardener." Ruul gestured at the plants surrounding him. "Being the mayor isn't a full-time job, so I keep busy by using my green thumb."</p>
-
-<p>Reaching into his pocket, he handed Link a small seed. "This might help you, though. It's a Gasha Seed. I know it doesn't look like much, but if you plant it in the ground, it will reward you by providing a special item when it grows. Maybe that will help you in your quest to rescue Din."</p>
-
-<p>Link thanked the mayor, who told him more about the seed. It seemed that the seed would only grow in certain types of soil, and Ruul made sure Link knew how to find the right place to grow the seed.</p>
-
-<p>Finally, Link turned to go. "Thank you again for the seed, Mayor. I'll find Din and bring her back. I promise."</p>
-
-<p>"Good luck, Link!" shouted the mayor, and he watched Link as he left. "You'll need all the luck you can get!" he added after Link was gone.</p>
-
-Turn to page 86
+"80": {
+  "body": "<h1>The Mayor's Mansion</h1> <p>Located on a hill on the northeast side of the village Link saw a large mansion.</p> <p><i>Someone important must live here,</i> he tought. He knocked on the front door, and it immediately opened</p> <p>Inside, Link found Ruul, the mayor of Horon. The mayor was busy placing plants in small pots, but he looked up when Link walked in.</p> <p>\"You must be Link. Din told me about you.\" A sad look crossed Ruul's face. \"Of course, that was before she was taken.\"</p> <p>Link nodded grimly. \"I'm going to bring her back. Is there anything you can tell me that might help?\"</p> <p>\"I'm afraid not, Link. For the most part, I'm a simple gardener.\" Ruul gestured at the plants surrounding him. \"Being the mayor isn't a full-time job, so I keep busy by using my green thumb.\"</p> <p>Reaching into his pocket, he handed Link a small seed. \"This might help you, though. It's a Gasha Seed. I know it doesn't look like much, but if you plant it in the ground, it will reward you by providing a special item when it grows. Maybe that will help you in your quest to rescue Din.\"</p> <p>Link thanked the mayor, who told him more about the seed. It seemed that the seed would only grow in certain types of soil, and Ruul made sure Link knew how to find the right place to grow the seed.</p> <p>Finally, Link turned to go. \"Thank you again for the seed, Mayor. I'll find Din and bring her back. I promise.\"</p> <p>\"Good luck, Link!\" shouted the mayor, and he watched Link as he left. \"You'll need all the luck you can get!\" he added after Link was gone.</p>",
+  "actions": [{
+    "id": "86"
+  }]
+}

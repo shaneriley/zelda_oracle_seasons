@@ -1,7 +1,6 @@
-<h1>Gnarled Root Dungeon: Blade Battle!</h1>
-
-<p>Link drew his sword and stood his ground, waiting for the spinning blade to appruach. It moved smoothly down the hall, and just before it reached him, Link started to wonder if he'd made the right choice. Link swung his sword, but the Wooden Sword was no match for the metal blades, which destroyed the sword in seconds. Link turned to run, but he was too late - the deadly blades caught him from behind.</p>
-
-<p>As he fell to the ground, Link felt himself falling and falling, as if the ground wasn't there at all. Deeper into the darkness he fell, until he finally lost consciousness.</p>
-
-Turn to page 77
+"24": {
+  "body": "<h1>Gnarled Root Dungeon: Blade Battle!</h1> <p>Link drew his sword and stood his ground, waiting for the spinning blade to appruach. It moved smoothly down the hall, and just before it reached him, Link started to wonder if he'd made the right choice. Link swung his sword, but the Wooden Sword was no match for the metal blades, which destroyed the sword in seconds. Link turned to run, but he was too late - the deadly blades caught him from behind.</p> <p>As he fell to the ground, Link felt himself falling and falling, as if the ground wasn't there at all. Deeper into the darkness he fell, until he finally lost consciousness.</p>",
+  "actions": [{
+    "id": "77"
+  }]
+}

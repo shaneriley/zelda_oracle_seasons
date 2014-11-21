@@ -1,11 +1,6 @@
-<h1>Gnarled Root Dungeon: Quick Switch</h1>
-
-<p>Link ran up the stairs on the right. At the top of the stairs, he was attacked by some spiders, but he quickly destroyed them with his sword and kept running east.</p>
-
-<p>He spotted a switch sticking out of the floor ahead, and as he got closer to it, he could see that it was on a ledge over the mine cart tracks. Link hit the switch once with his sword, and he saw the mine cart tracks shift. <i>I think that the mine cart will take me somewhere else now,</i> he thought.</p>
-
-<p>Before he headed back to the cart, Link kept going east. He had to fight more spiders, but he was rewarded by finding a chest with a Compass inside. A Compass was a very useful item - it would help Link find the boss room, keys, and chests on his Dungeon Map.</p>
-
-<p>Tucking the Compass in his pocket, Link ran back to the west and down the stairs. The Moblins in the room saw him, but before they could attack, Link jumped into the mine cart and sped away down the tracks.</p>
-
-Turn to page 53
+"82": {
+  "body": "<h1>Gnarled Root Dungeon: Quick Switch</h1> <p>Link ran up the stairs on the right. At the top of the stairs, he was attacked by some spiders, but he quickly destroyed them with his sword and kept running east.</p> <p>He spotted a switch sticking out of the floor ahead, and as he got closer to it, he could see that it was on a ledge over the mine cart tracks. Link hit the switch once with his sword, and he saw the mine cart tracks shift. <i>I think that the mine cart will take me somewhere else now,</i> he thought.</p> <p>Before he headed back to the cart, Link kept going east. He had to fight more spiders, but he was rewarded by finding a chest with a Compass inside. A Compass was a very useful item - it would help Link find the boss room, keys, and chests on his Dungeon Map.</p> <p>Tucking the Compass in his pocket, Link ran back to the west and down the stairs. The Moblins in the room saw him, but before they could attack, Link jumped into the mine cart and sped away down the tracks.</p>",
+  "actions": [{
+    "id": "53"
+  }]
+}

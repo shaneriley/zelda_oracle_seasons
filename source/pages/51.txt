@@ -1,9 +1,6 @@
-<h1>The Gnarled Root</h1>
-
-<p>After leaving Impa, Link traveled north until he reached a small lake. A long bridge connected the shoreline with a small island in the center of the lake, but the path was blocked by bushes. Link hacked his way through them with his sword and crossed the bridge.</p>
-
-<p>Once on the island, Link found a rock with a keyhole in it and used the key the Maku Tree had given him. As soon as he twisted the key in the keyhole, the ground began to shake. A huge root rose out of the ground, and Link could see a door in the side of it.</p>
-
-<p><i>This must be the entrance to the dungeon the Maku Tree told me about,</i> he thought. Once the ground stopped shaking, Link stepped through the door and entered the dungeon.</p>
-
-Turn to page 79
+"51": {
+  "body": "<h1>The Gnarled Root</h1> <p>After leaving Impa, Link traveled north until he reached a small lake. A long bridge connected the shoreline with a small island in the center of the lake, but the path was blocked by bushes. Link hacked his way through them with his sword and crossed the bridge.</p> <p>Once on the island, Link found a rock with a keyhole in it and used the key the Maku Tree had given him. As soon as he twisted the key in the keyhole, the ground began to shake. A huge root rose out of the ground, and Link could see a door in the side of it.</p> <p><i>This must be the entrance to the dungeon the Maku Tree told me about,</i> he thought. Once the ground stopped shaking, Link stepped through the door and entered the dungeon.</p>",
+  "actions": [{
+    "id": "79"
+  }]
+}

@@ -1,15 +1,10 @@
-<h1>Onox's Castle: Entry</h1>
-
-<p>Before Link could enter Onox's Castle, he had to get by the two Fire Cats guarding the entrance. Using the Roc's Cape and the Noble Sword, he was able to run past the two guardians and slip into the castle before they could catch him.</p>
-
-<p>Once he was inside the castle, Link found himself in a long hallway with doors to the left and right. Both doors looked the same, so he entered the one on the left. Immediately, the door slammed shut, trapping him inside! As Link tried to pry the door open, the floor began to shake, and loose floor tiles began to fly at him.</p>
-
-<p>Link made his way to the corner of the room, swatting flying tiles with his sword. As he battled toward the corner, he came across a health fairy who restored his health. Link stood in the corner and hit any tiles that got too close until they had all been destroyed. As soon as the tiles were gone, the door opened again.</p>
-
-<p>Back in the hall, Link walked north. In the second room ahead, he was ambushed. Several Wizzrobes were waiting for him, and they quickly attacked!</p>
-
-<h2>How should Link fight the Wizzrobes?</h2>
-<b>Use the Noble Sword.</b>
-Turn to page 64.
-<b>Use his Slingshot.</b>
-Turn to page 38.
+"52": {
+  "body": "<h1>Onox's Castle: Entry</h1> <p>Before Link could enter Onox's Castle, he had to get by the two Fire Cats guarding the entrance. Using the Roc's Cape and the Noble Sword, he was able to run past the two guardians and slip into the castle before they could catch him.</p> <p>Once he was inside the castle, Link found himself in a long hallway with doors to the left and right. Both doors looked the same, so he entered the one on the left. Immediately, the door slammed shut, trapping him inside! As Link tried to pry the door open, the floor began to shake, and loose floor tiles began to fly at him.</p> <p>Link made his way to the corner of the room, swatting flying tiles with his sword. As he battled toward the corner, he came across a health fairy who restored his health. Link stood in the corner and hit any tiles that got too close until they had all been destroyed. As soon as the tiles were gone, the door opened again.</p> <p>Back in the hall, Link walked north. In the second room ahead, he was ambushed. Several Wizzrobes were waiting for him, and they quickly attacked!</p> <h2>How should Link fight the Wizzrobes?</h2>",
+  "actions": [{
+    "text": "Use the Noble Sword.",
+    "id": "64"
+  }, {
+    "text": "Use his Slingshot.",
+    "id": "38"
+  }]
+}

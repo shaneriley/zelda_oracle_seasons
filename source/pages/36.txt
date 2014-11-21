@@ -1,21 +1,10 @@
-<h1>Sword and Shield: Frypolar</h1>
-
-<p>As Link explored the dungeon, he found a locked door. Nearby, he came across a stone block with an owl carved on it. He walked up to the block, and when he tried to push it, the owl spoke to him.</p>
-
-<p>"Icy cores make piercing blades," the owl said.</p>
-
-<p>Link had seen thses owl stones before, and he realized that this was a clue he would need later. Looking around the room, Link also noticed three stone blocks on the wall with eyes painted on them. He took aim with his Slingshot, and hit all three stones. Immediately, a stairway appeared in the center of the room, and Link took the stairs up.</p>
-
-<p>Upstairs, he battled his way past some soldiers and other creatures to reach a chest with a small key inside. Remembering the locked door, Link ran back down the stairs and unlocked the door with his key.</p>
-
-<p>Inside this large room, Link came face-to-face with a living ball of fire. Frypolar was either pure flame or pure ice, and in either state, he was trouble for Link. As soon as Frypolar saw Link, he started throwing fireballs at him. Link was able to dodge them, but he found out that his sword wasn't going to work against this creature.</p>
-
-<p>Link loaded his Slingshot with Mystery Seeds and hit Frypolar with one. Immediately, Frypolar became icy cold. On an impulse, Link switched to Ember Seeds and fired one at the cold flame - it worked! Link had found the combination that would destroy Frypolar. Link kepy hitting him with seeds, switching between Mystery and Ember Seeds until Frypolar disappeared in a puff of smoke.</p>
-
-<p>As soon as Frypolar was history, the room to the north opened up and Link was able to leave the room.</p>
-
-<h2>Which room should Link explore next?</h2>
-<b>The Torch Room.</b>
-Turn to page 62
-<b>The Ice Chamber.</b>
-Turn to page 14
+"36": {
+  "body": "<h1>Sword and Shield: Frypolar</h1> <p>As Link explored the dungeon, he found a locked door. Nearby, he came across a stone block with an owl carved on it. He walked up to the block, and when he tried to push it, the owl spoke to him.</p> <p>\"Icy cores make piercing blades,\" the owl said.</p> <p>Link had seen thses owl stones before, and he realized that this was a clue he would need later. Looking around the room, Link also noticed three stone blocks on the wall with eyes painted on them. He took aim with his Slingshot, and hit all three stones. Immediately, a stairway appeared in the center of the room, and Link took the stairs up.</p> <p>Upstairs, he battled his way past some soldiers and other creatures to reach a chest with a small key inside. Remembering the locked door, Link ran back down the stairs and unlocked the door with his key.</p> <p>Inside this large room, Link came face-to-face with a living ball of fire. Frypolar was either pure flame or pure ice, and in either state, he was trouble for Link. As soon as Frypolar saw Link, he started throwing fireballs at him. Link was able to dodge them, but he found out that his sword wasn't going to work against this creature.</p> <p>Link loaded his Slingshot with Mystery Seeds and hit Frypolar with one. Immediately, Frypolar became icy cold. On an impulse, Link switched to Ember Seeds and fired one at the cold flame - it worked! Link had found the combination that would destroy Frypolar. Link kepy hitting him with seeds, switching between Mystery and Ember Seeds until Frypolar disappeared in a puff of smoke.</p> <p>As soon as Frypolar was history, the room to the north opened up and Link was able to leave the room.</p> <h2>Which room should Link explore next?</h2>",
+  "actions": [{
+    "text": "The Torch Room.",
+    "id": "62"
+  }, {
+    "text": "The Ice Chamber.",
+    "id": "14"
+  }]
+}

@@ -1,23 +1,6 @@
-<h1>The Trading Game: Part 1</h1>
-
-<p>Link decided to take the Cuccodex to Malon, so he left Horon Village and headed north. He found Malon in her house, surrounded by cuccos. "Please, can you help me?" she asked. Link reached into his pack and handed her the Cuccodex. "This is just what I needed!" Malon said. "Now I can figure out how to raise these birds the way my father did."</p>
-
-<p>Malon reached into her apron and handed a small egg to Link. "This is a Lon Lon Egg. It's a beauty item that's popular with most girls. You might find a use for it in your travels."</p>
-
-<p>Looking oddly at the egg, Link shrugged and put it in his pack. Malon thanked him again, and Link waved to her as he headed back to the village.</p>
-
-<p><i>I'm not sure what kind of trade that was,</i> thought Link. <i>I can't use either of those things - the book or the egg.</i></p>
-
-<p>Just then, a shadow appeared on the ground, and link barely had time to brace himself before he was knocked down. Lying on the ground near him was a girl who had been flying on a broom.</p>
-
-<p>"Hey!" she shouted as she straightened her hat. "Watch where you're going! I'm Maple Syrup, the Witch's apprentice, and you'd better have a good explanation for getting in my way!"</p>
-
-<p>Link was dusting himself off. As he picked up his pack, the Lon Lon Egg fell out onto the ground.</p>
-
-<p>"Oh!" cried Maple. "You've got a Lon Lon Egg." Her voice changed to a nicer tone and she helped Link to his feet. "I'd really like to have that egg." She reached into her pocket and held out a very odd-looking doll. "Trade me the Lon Lon Egg for this Ghastly Doll, and we'll just forget about our little accident."</p>
-
-<p>Link didn't have any reason not to trade, so he took the Ghastly Doll and dropped it into his pack and then gave her the egg. "Thanks," said Maple. "I hope we don't run into each other again!" With that, she flew off on her broom.</p>
-
-<p>Shaking his head, Link kept walking south and headed for the southeast corner of Horon Village, where he had burned the sapling to reveal a new area to explore.</p>
-
-Turn to page 48
+"56": {
+  "body": "<h1>The Trading Game: Part 1</h1> <p>Link decided to take the Cuccodex to Malon, so he left Horon Village and headed north. He found Malon in her house, surrounded by cuccos. \"Please, can you help me?\" she asked. Link reached into his pack and handed her the Cuccodex. \"This is just what I needed!\" Malon said. \"Now I can figure out how to raise these birds the way my father did.\"</p> <p>Malon reached into her apron and handed a small egg to Link. \"This is a Lon Lon Egg. It's a beauty item that's popular with most girls. You might find a use for it in your travels.\"</p> <p>Looking oddly at the egg, Link shrugged and put it in his pack. Malon thanked him again, and Link waved to her as he headed back to the village.</p> <p><i>I'm not sure what kind of trade that was,</i> thought Link. <i>I can't use either of those things - the book or the egg.</i></p> <p>Just then, a shadow appeared on the ground, and link barely had time to brace himself before he was knocked down. Lying on the ground near him was a girl who had been flying on a broom.</p> <p>\"Hey!\" she shouted as she straightened her hat. \"Watch where you're going! I'm Maple Syrup, the Witch's apprentice, and you'd better have a good explanation for getting in my way!\"</p> <p>Link was dusting himself off. As he picked up his pack, the Lon Lon Egg fell out onto the ground.</p> <p>\"Oh!\" cried Maple. \"You've got a Lon Lon Egg.\" Her voice changed to a nicer tone and she helped Link to his feet. \"I'd really like to have that egg.\" She reached into her pocket and held out a very odd-looking doll. \"Trade me the Lon Lon Egg for this Ghastly Doll, and we'll just forget about our little accident.\"</p> <p>Link didn't have any reason not to trade, so he took the Ghastly Doll and dropped it into his pack and then gave her the egg. \"Thanks,\" said Maple. \"I hope we don't run into each other again!\" With that, she flew off on her broom.</p> <p>Shaking his head, Link kept walking south and headed for the southeast corner of Horon Village, where he had burned the sapling to reveal a new area to explore.</p>",
+  "actions": [{
+    "id": "48"
+  }]
+}

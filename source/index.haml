@@ -1,11 +1,17 @@
 %article
-  %p This is an interactive transcription of the book <i>The Legend of Zelda: Oracle of Seasons</i>, published by Scholastic and written by Craig Wessel.
-  %h3= link_to "Start", "#", data: { view_id: "start" }
+  = image_tag "cover.jpg", alt: "Cover image"
+  %section
+    %p This is an interactive transcription of the book <i>The Legend of Zelda: Oracle of Seasons</i>, published by Scholastic and written by Craig Wessel.
+    %h2= link_to "Start", "#", data: { view_id: "start" }
 
 %script(type="text/x-handlebars" data-id="page")
   %article
-    %p {{{body}}}
+    {{{body}}}
     %ol
       {{#each actions}}
-      %li= link_to "{{text}}", "#", data: { page: "{{id}}" }
+      %li
+        {{#if text}}
+        %p {{text}}
+        {{/if}}
+        = link_to "Turn to page {{id}}.", "#", data: { page: "{{id}}" }
       {{/each}}

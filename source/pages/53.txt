@@ -1,16 +1,10 @@
-<h1>Gnarled Root Dungeon: The Red Blade</h1>
-
-<p>The mine cart took Link east, past the Gel room. Several spiders attacked while he was in the cart, but he was able to hit them with his sword as he rolled along. He noticed a chest beside the tracks, but the cart kept going. <i>I'll have to come back for that,</i> he thought.</p>
-
-<p>Finally, the mine cart rolled to a stop and Link jumped out. remembering the chest he had seen along the tracks, Link ran back to it and found that it contained some bombs.</p>
-
-<p>"These will be useful if I have to blast a hole in a wall," said Link as he tucked them into his pack.</p>
-
-<p>Link returned to the room where the mine cart was sitting and ran up the stairs nearby. He turned the corner at the top and went down another set of stairs into a block-lined hallway. As he turned the first corner in the hallway, a spinning red blade came toward him from a side passage.</p>
-
-<h2>What should Link do?</h2>
-
-<b>Destroy the blade.</b>
-Turn to page 24.
-<b>Run past the blade.</b>
-Turn to page 22.
+"53": {
+  "body": "<h1>Gnarled Root Dungeon: The Red Blade</h1> <p>The mine cart took Link east, past the Gel room. Several spiders attacked while he was in the cart, but he was able to hit them with his sword as he rolled along. He noticed a chest beside the tracks, but the cart kept going. <i>I'll have to come back for that,</i> he thought.</p> <p>Finally, the mine cart rolled to a stop and Link jumped out. remembering the chest he had seen along the tracks, Link ran back to it and found that it contained some bombs.</p> <p>\"These will be useful if I have to blast a hole in a wall,\" said Link as he tucked them into his pack.</p> <p>Link returned to the room where the mine cart was sitting and ran up the stairs nearby. He turned the corner at the top and went down another set of stairs into a block-lined hallway. As he turned the first corner in the hallway, a spinning red blade came toward him from a side passage.</p> <h2>What should Link do?</h2>",
+  "actions": [{
+    "text": "Destroy the blade.",
+    "id": "24"
+  }, {
+    "text": "Run past the blade.",
+    "id": "22"
+  }]
+}

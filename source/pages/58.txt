@@ -1,15 +1,6 @@
-<h1>Gnarled Root Dungeon: Means to an End</h1>
-
-<p>After stepping through the portal, Link found himself near the mine cart in the Gel room. Using his spinning attack, he quickly destroyed all the Gels in the room, then he approached the locked door in the west wall.</p>
-
-<p>There were two unlit torches, one in either side of the door. Link placed an Ember Seed on each torch, and as soon as they were lit, the door magically opened. Three boomerang-tossing Moblins waited to ambush Link in the next room. Link tracked each of them down and hit each of them twice to get rid of them.</p>
-
-<p>As soon as all the Moblins were gone, a magic chest appeared in the center of the room. Inside, Link found the Boss Key. There was nothing else in the room, so Link backtracked to the room with the four stone blocks inside. He remembered to push the northeast block to open the doors, and then he entered the east door.</p>
-
-<p>Once again, he had to fight off the four Stalfos inside the room. Once they were gone, he approached the door on the north side of the room. There were two unlit torches on either side of the door, so he placed an Ember Seed on each of them to open the door.</p>
-
-<p>Beyond the door was another block maze, but this one was very different. As soon as Link entered, Wallmasters began to appear. Wallmasters were ghostly blue hands that would send Link back to the beginning of the dungeon if they touched him. Link had to hit each of them with his sword several times to get them out of his path as he made his way through the maze.</p>
-
-<p>On the left side of the room, Linkfound a chest with a ring inside. <i>I'll have to get this appraised by the jeweler in Horon Village,</i> he thought as he tucked it into his pack. Once he had made his way through the maze, Link faced a locked door. Link readied his sword and shield, and used the Boss Key to open the door.</p>
-
-Turn to page 88
+"58": {
+  "body": "<h1>Gnarled Root Dungeon: Means to an End</h1> <p>After stepping through the portal, Link found himself near the mine cart in the Gel room. Using his spinning attack, he quickly destroyed all the Gels in the room, then he approached the locked door in the west wall.</p> <p>There were two unlit torches, one in either side of the door. Link placed an Ember Seed on each torch, and as soon as they were lit, the door magically opened. Three boomerang-tossing Moblins waited to ambush Link in the next room. Link tracked each of them down and hit each of them twice to get rid of them.</p> <p>As soon as all the Moblins were gone, a magic chest appeared in the center of the room. Inside, Link found the Boss Key. There was nothing else in the room, so Link backtracked to the room with the four stone blocks inside. He remembered to push the northeast block to open the doors, and then he entered the east door.</p> <p>Once again, he had to fight off the four Stalfos inside the room. Once they were gone, he approached the door on the north side of the room. There were two unlit torches on either side of the door, so he placed an Ember Seed on each of them to open the door.</p> <p>Beyond the door was another block maze, but this one was very different. As soon as Link entered, Wallmasters began to appear. Wallmasters were ghostly blue hands that would send Link back to the beginning of the dungeon if they touched him. Link had to hit each of them with his sword several times to get them out of his path as he made his way through the maze.</p> <p>On the left side of the room, Linkfound a chest with a ring inside. <i>I'll have to get this appraised by the jeweler in Horon Village,</i> he thought as he tucked it into his pack. Once he had made his way through the maze, Link faced a locked door. Link readied his sword and shield, and used the Boss Key to open the door.</p>",
+  "actions": [{
+    "id": "88"
+  }]
+}

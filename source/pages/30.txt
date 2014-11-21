@@ -1,31 +1,6 @@
-<h1>The Maku Tree</h1>
-
-<p>As Link reentered the village, the seasons changed. The green grass faded and leaves fell from the trees. It was autumn in Horon Village. As Link walked along, he saw children playing in piles of leaves. He passed through the village and neared the gate on the east side of town. Carved on the gate was the message:</p>
-
-<p><code>ONLY HE WHO SHOWS THE SIGN OF COURAGE MAY ENTER.</code></p>
-
-<p>Knowing that he'd proven his courage in the Hero's Cave, Link drew his sword and struck the gate. It opened, and he stepped into the forest beyond.</p>
-
-<p><i>Impa told me to seek out the Maku Tree. It must be somewhere in this forest,</i> thought Link. Soon, Link saw a clearing ahead. A huge tree dominated the clearing. As Link neared it, he knew that it must be the Maku Tree.</p>
-
-<p>As he approached, he could see that the tree was sleeping. Strange images - the tree's dreams - floated nearby. Link didn't know how to wake the tree, so he tried touching one of the dream images with his sword. Immediately, the images vanished and the tree shuddered.</p>
-
-<p>"What? Who...?" The tree's eyes opened and it saw Link. "Who are you? What to you want?" it asked.</p>
-
-<p>Link told the tree who he was, and as Impa had instructed, he told the tree about Din's capture.</p>
-
-<p>The tree sighed. "Guarding the Oracle of Seasons is my duty, but I've failed her. Link, the only way to get her back is to seek out the Temple of Seasons. It used to rest on the Northern Peak. I sense great evil there now. In order to break the barrier that hides the Temple, you must find the eight Essences of Nature."</p>
-
-<p>The tree yawned hugely. "You will find the first of the Essences in the Gnarled Root Dungeon."</p>
-
-<p>A large key appeared. The tree continued, "Take this key and find the giant root near the lake to the north. This key will allow you to enter the dungeon and find the Essence. The changing seasons have begun to affect me. I'm growning sleepy again, and I'm afraid that..."</p>
-
-<p>The tree closed its eyes and fell asleep. Link took the key and left. Back in town, he entered the small shop and used the 30 Rupees he had found to buy a Wooden Shield. He left the shop and headed for the north entrance to the billage.</p>
-
-<p>Outside the village, he found Impa again and told her that he had delivered the message to the Maku Tree.</p>
-
-<p>"Good, Link," she said. "Now you must find the eight Essences before it's too late. Go to the north, and you'll find the root the Maku Tree told you about. Be careful!"</p>
-
-<p>Link headed north of the village in search of the gnarled root and the first of the eight Essences of Nature.</p>
-
-Turn to page 51
+"30": {
+  "body": "<h1>The Maku Tree</h1> <p>As Link reentered the village, the seasons changed. The green grass faded and leaves fell from the trees. It was autumn in Horon Village. As Link walked along, he saw children playing in piles of leaves. He passed through the village and neared the gate on the east side of town. Carved on the gate was the message:</p> <p><code>ONLY HE WHO SHOWS THE SIGN OF COURAGE MAY ENTER.</code></p> <p>Knowing that he'd proven his courage in the Hero's Cave, Link drew his sword and struck the gate. It opened, and he stepped into the forest beyond.</p> <p><i>Impa told me to seek out the Maku Tree. It must be somewhere in this forest,</i> thought Link. Soon, Link saw a clearing ahead. A huge tree dominated the clearing. As Link neared it, he knew that it must be the Maku Tree.</p> <p>As he approached, he could see that the tree was sleeping. Strange images - the tree's dreams - floated nearby. Link didn't know how to wake the tree, so he tried touching one of the dream images with his sword. Immediately, the images vanished and the tree shuddered.</p> <p>\"What? Who...?\" The tree's eyes opened and it saw Link. \"Who are you? What to you want?\" it asked.</p> <p>Link told the tree who he was, and as Impa had instructed, he told the tree about Din's capture.</p> <p>The tree sighed. \"Guarding the Oracle of Seasons is my duty, but I've failed her. Link, the only way to get her back is to seek out the Temple of Seasons. It used to rest on the Northern Peak. I sense great evil there now. In order to break the barrier that hides the Temple, you must find the eight Essences of Nature.\"</p> <p>The tree yawned hugely. \"You will find the first of the Essences in the Gnarled Root Dungeon.\"</p> <p>A large key appeared. The tree continued, \"Take this key and find the giant root near the lake to the north. This key will allow you to enter the dungeon and find the Essence. The changing seasons have begun to affect me. I'm growning sleepy again, and I'm afraid that...\"</p> <p>The tree closed its eyes and fell asleep. Link took the key and left. Back in town, he entered the small shop and used the 30 Rupees he had found to buy a Wooden Shield. He left the shop and headed for the north entrance to the billage.</p> <p>Outside the village, he found Impa again and told her that he had delivered the message to the Maku Tree.</p> <p>\"Good, Link,\" she said. \"Now you must find the eight Essences before it's too late. Go to the north, and you'll find the root the Maku Tree told you about. Be careful!\"</p> <p>Link headed north of the village in search of the gnarled root and the first of the eight Essences of Nature.</p>",
+  "actions": [{
+    "id": "51"
+  }]
+}

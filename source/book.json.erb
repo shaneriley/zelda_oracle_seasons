@@ -1,0 +1,7 @@
+{
+  <%- files = Dir.glob('source/pages/*.txt').sort %>
+  <%- files.each_with_index do |file, i| %>
+  <%- wireframe = File.basename(file) %>
+  <%= partial "pages/#{wireframe}" %><%= "," unless files.length == i + 1 %>
+  <%- end %>
+}

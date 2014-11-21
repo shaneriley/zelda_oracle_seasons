@@ -3,7 +3,7 @@ $(function() {
       pages;
 
   $.ajax({
-    url: "pages.json",
+    url: "book.json",
     dataType: "text",
     success: function(j) {
       pages = JSON.parse(j);

@@ -1,7 +1,6 @@
-<h1>The Maku Tree</h1>
-
-<p>As soon as Link had all the Essences, he went to the Maku tree in Horon Village. With its powers fully restored, the Maku Tree was now able to give Link the huge Maku Seed that was in its branches. The magical seed was the only thing that would let Link pass through the Nurthern Peak to reach Onox's Castle.</p>
-
-<p>Before he left to battle Onox, Link warped to the Sunken City and went to Maple's house, where he bought a Magic Potion to help him in the battle. Once he had the potion, he was ready to fight Onox.</p>
-
-Turn to page 92
+"17": {
+  "body": "<h1>The Maku Tree</h1> <p>As soon as Link had all the Essences, he went to the Maku tree in Horon Village. With its powers fully restored, the Maku Tree was now able to give Link the huge Maku Seed that was in its branches. The magical seed was the only thing that would let Link pass through the Nurthern Peak to reach Onox's Castle.</p> <p>Before he left to battle Onox, Link warped to the Sunken City and went to Maple's house, where he bought a Magic Potion to help him in the battle. Once he had the potion, he was ready to fight Onox.</p>",
+  "actions": [{
+    "id": "92"
+  }]
+}

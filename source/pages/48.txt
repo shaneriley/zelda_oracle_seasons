@@ -1,15 +1,6 @@
-<h1>East Suburbs</h1>
-
-<p>Just east of the village, Link was attacked by several Octoroks. Once he had finished them off with some quick sword work, he spotted a tall tower ahead. There was a man on the roof who called down, "You don't have any grease, do you? My windmill needs some."</p>
-
-<p>Link shook his head. "No, sorry, I don't."</p>
-
-<p>To the south of the tower, Link found a hollow log. After walking through it, he came to a beach. As he walked east along the beach, he found the entrane to the Samasa Desert, which was guarded by a Stalfos Pirate. Link didn't have the item the pirate wanted - the Pirate's Bell - so he turned around and walked back through the hollow log.</p>
-
-<p>As Link walked north, he came across a girl with a ribbon in her hair. "Oh...um...hello," she stammered. "I, uh, I have to get back to somewhere without anyone seeing me, so... good-bye!" The girl took off to the north, leaving Link behind.</p>
-
-<p><i>I think she's keeping a secret. I'd better follow her and see where she goes,</i> thought Link. As he followed her north, Link was careful to keep at least one tree between them at all times so she couldn't see him. She almost saw him when she headed west, because she doubled back suddenly, but Link barely made it into hiding and avoided being seen.</p>
-
-<p>Link followed her west, and saw her disappear into a patch of plants in a nearby garden. Link was really curious now, so he chopped down the plants. "Just what I thought," said Link, "a portal. I'll bet this has something to do with the Temple of Seasons." Link tucked his sword in his belt and stepped into the portal.</p>
-
-Turn to page 18
+"48": {
+  "body": "<h1>East Suburbs</h1> <p>Just east of the village, Link was attacked by several Octoroks. Once he had finished them off with some quick sword work, he spotted a tall tower ahead. There was a man on the roof who called down, \"You don't have any grease, do you? My windmill needs some.\"</p> <p>Link shook his head. \"No, sorry, I don't.\"</p> <p>To the south of the tower, Link found a hollow log. After walking through it, he came to a beach. As he walked east along the beach, he found the entrane to the Samasa Desert, which was guarded by a Stalfos Pirate. Link didn't have the item the pirate wanted - the Pirate's Bell - so he turned around and walked back through the hollow log.</p> <p>As Link walked north, he came across a girl with a ribbon in her hair. \"Oh...um...hello,\" she stammered. \"I, uh, I have to get back to somewhere without anyone seeing me, so... good-bye!\" The girl took off to the north, leaving Link behind.</p> <p><i>I think she's keeping a secret. I'd better follow her and see where she goes,</i> thought Link. As he followed her north, Link was careful to keep at least one tree between them at all times so she couldn't see him. She almost saw him when she headed west, because she doubled back suddenly, but Link barely made it into hiding and avoided being seen.</p> <p>Link followed her west, and saw her disappear into a patch of plants in a nearby garden. Link was really curious now, so he chopped down the plants. \"Just what I thought,\" said Link, \"a portal. I'll bet this has something to do with the Temple of Seasons.\" Link tucked his sword in his belt and stepped into the portal.</p>",
+  "actions": [{
+    "id": "18"
+  }]
+}
