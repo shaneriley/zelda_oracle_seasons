@@ -1,0 +1,13 @@
+<h1>Gnarled Root Dungeon: Decision</h1>
+
+<p>Link rode the mine cart down the tracks, swinging his sword to fight off the spiders that swarmed the tracks. Finally, he could see light at the end of the tracks, and the train emerged into another room. When the mine cart stopped, Link jumped out.</p>
+
+<p>He found himself in a large room with a closed door in the west wall and a stone block in the center of the room. He could also see a short flight of stairs on his right. Unfortunately, he wasn't alone - two large Moblins were headed his way! As they approached, each of them threw a large boomerang at Link.</p>
+
+<p>Link had a choice. He could stay and fight the Moblins, or run up the stairs to get away.</p>
+
+<h2>What should Link do?</h2>
+<b>Stay and fight.</b>
+Turn to page 46.
+<b>Run up the stairs.</b>
+Turn to page 82.
